@@ -1,5 +1,5 @@
 # task-tracker
-Javascript implementation of the task tracker project based on [roadmap.sh](roadmap.sh/projects/task-tracker).
+Javascript implementation of the task tracker project based on [roadmap.sh](https://roadmap.sh/projects/task-tracker).
 
 The tasks are stored in the `tasks.json` file. The json file will be automatically created when you add task to it.
 
